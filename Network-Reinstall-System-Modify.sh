@@ -117,7 +117,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2012R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2012R2_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2012R2_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2008R2' ]
@@ -125,7 +125,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2008R2 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2008R2_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2008R2_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_7_Vienna' ]
@@ -133,7 +133,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_7_Vienna \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_7_Vienna_Ultimate_CN.vhd.gz'
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_7_Vienna_Ultimate_CN.vhd.gz'
 fi
 
 if [ $1 = '-Windows_Server_2003' ]
@@ -141,7 +141,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest Windows_Server_2003 \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2003_DataCenter_CN.vhd.gz'
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/Windows/Disk_Windows_DD/Disk_Windows_Server_2003_DataCenter_CN.vhd.gz'
 fi
 
 if [ $1 = '-CXT_Bare-metal_System_Deployment_Platform' ]
@@ -149,7 +149,7 @@ then
 	echo -e "\033[33m You have chosen to install the latest CXT_Bare-metal_System_Deployment_Platform \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/CXT-System/CXT_Bare-metal_System_Deployment_Platform.vhd.gz'
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd 'https://odc.mirrors.getcdn.net/Operating-System_VvuH8KEgcrS0HtzN/CXT-System/CXT_Bare-metal_System_Deployment_Platform.vhd.gz'
 fi
 
 if [ $1 = '-DD' ]
@@ -157,7 +157,7 @@ then
 	echo -e "\033[33m You have chosen to install the DD package provided by you \033[0m"
 	echo -e "\n"
 	sleep 2s
-	wget --no-check-certificate -qO Core_Install.sh 'https://www.cxthhhhh.com/tech-tools/Network-Reinstall-System-Modify/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd $2
+	wget --no-check-certificate -qO Core_Install.sh 'https://raw.githubusercontent.com/ofoofo1/Network-Reinstall-System-Modify/master/CoreShell/Core_Install.sh' && bash Core_Install.sh -dd $2
 fi
 
 
