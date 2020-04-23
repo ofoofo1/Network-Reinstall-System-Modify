@@ -51,5 +51,4 @@ A：You can join my Telegram channel and discussion groups for instant communica
 Version：V2.0.3  
 Date：2019/01/06
 
-[Technical Blog | 技術博客](https://tech.cxthhhhh.com/)  
-https://tech.cxthhhhh.com/
+改 Network-Reinstall-System-Modify.sh 里面参数
