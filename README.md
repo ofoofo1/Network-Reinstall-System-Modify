@@ -51,4 +51,4 @@ A：You can join my Telegram channel and discussion groups for instant communica
 Version：V2.0.3  
 Date：2019/01/06
 
-改 Network-Reinstall-System-Modify.sh 里面参数 和 Core_Install.sh
+改 Network-Reinstall-System-Modify.sh 里面参数 系统位置 和 Core_Install.sh
